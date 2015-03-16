@@ -122,6 +122,16 @@
 											</tr>
 											<tr>
 												<td >
+													Javascript
+												</td>
+												<td>
+													<img src="images/star3.png" alt="" class="imagen-heredada">
+													<img src="images/star3.png" alt="" class="imagen-heredada">
+													<img src="images/star3.png" alt="" class="imagen-heredada">
+												</td>
+											</tr>
+											<tr>
+												<td >
 													C#
 												</td>
 												<td>
