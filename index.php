@@ -57,14 +57,14 @@
 						<header>
 							<h1>Jaime Chapinal</h1>
 						</header>
-						<h3>Video games programmer</h3>
+						<h3>Developer</h3>
 						<ul class="social">
 							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li><a href="./data/CVJaimeChapinal_english.pdf" class="icon fa-file-pdf-o" target="_blank"><span class="label">Twitter</span></a></li>
 							&nbsp;&nbsp;&nbsp;<li><a href="http://es.linkedin.com/pub/jaime-chapinal-cervantes/3b/528/122" target="_blank" class="icon fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 							&nbsp;&nbsp;&nbsp;<li><a href="https://github.com/Xatpy" target="_blank" class="icon fa-github" target="_blank"><span class="label">Github</span></a></li>
 						</ul>
 						<br>
-						<a href="#about" class="button big scrolly">More about me and my work</a>
+						<a href="#about" class="button scrolly">More about me and my work</a>
 					</div>
 				</div>
 			</article>
@@ -83,16 +83,16 @@
 								<span class="icon featured fa-university" ></span>
 								<h3>Education</h3>
 								<p id="align-left">
-									<span class="icon fa-cog"></span>  Master in <a href="http://www.videojuegos-ucm.es/" target="blank">Video Games development (programming)</a> at <i>University Complutense of Madrid (2012-2013)</i>.<br />
+									<span class="icon fa-cog"></span><a href="http://www.videojuegos-ucm.es/" target="blank">  Master in Video Games development (programming)</a> at University Complutense of Madrid (2012 - 2013).<br />
 								</p>
 								<p id="align-left">
-								 	<span class="icon fa-cog"></span>  Master in <a href="http://masteres.ugr.es/master-desarrollo-software/?lang=en" target="blank">Software Development</a> at University of Granada (2011-2012).<br />
+								 	<span class="icon fa-cog"></span><a href="http://masteres.ugr.es/master-desarrollo-software/?lang=en" target="blank">  Master in Software Development</a> at University of Granada (2011 - 2012).<br />
 								</p>
 								<p id="align-left">
-									<span class="icon fa-cog"></span>  Computer Engineering Degree <a href="http://www.uc3m.es/ss/Satellite/UC3MInstitucional/en/Detalle/Estudio_C/1371206697201/1371206607588/Bachelor_s_Degree_in_Computer_Science_and_Engineering" target="blank">Software Development</a> at University Carlos III of Madrid (2010 -2011).<br />
+									<span class="icon fa-cog"></span><a href="http://www.uc3m.es/ss/Satellite/UC3MInstitucional/en/Detalle/Estudio_C/1371206697201/1371206607588/Bachelor_s_Degree_in_Computer_Science_and_Engineering" target="blank">  Computer Engineering Degree Software Development</a> at University Carlos III of Madrid (2010 -2 011).<br />
 								</p>
 								<p id="align-left">
-									<span class="icon fa-cog"></span>  Technical Engineering in Computer Managements <a href="http://www.uc3m.es/Home" target="blank">Software Development</a> at University Carlos III of Madrid (2004 -2010).
+									<span class="icon fa-cog"></span><a href="http://www.uc3m.es/Home" target="blank">  Technical Engineering in Computer Managements Software Development</a> at University Carlos III of Madrid (2004 - 2010).
 								</p>
 							</section>
 						</div>
@@ -276,7 +276,7 @@
 									<br>
 									<a href="./data/CVJaimeChapinal.pdf" target="blank">Curriculum Vitae (Spanish)</a>
 									<br>
-									<a href="./data/CVJaimeChapinal_english.pdf" target="blank">Resume</a>
+									<a href="./data/Resume_JaimeChapinal.pdf" target="blank">Resume</a>
 								</p>
 								<h4><span class="icon fa fa-code"></span>  CV (C++ Source code)</h4>
 								<p>
@@ -316,11 +316,36 @@
 							<table>
 								<br>
 								<tr>
-									<td colspan="2" class="img" style="text-align:center;"><a href="http://simfor.es/wp/" target="_blank"><img src="images/simfor_logo.png" alt="SIMFOR" /></a></td>
+									<td colspan="2" class="img" style="text-align:center;"><a href="http://www.cartodb.com" target="_blank"><img src="https://d21buns5ku92am.cloudfront.net/27712/images/90475-logos_full_cartodb_light-medium-1365655273.png" alt="CartoDB" /></a></td>
 								</tr>
 								<tr>
 									<td><i>Company:</i></td>
-									<td><a href="http://simfor.es/wp/" target="_blank">SIMFOR</a></td>
+									<td><a href="http://www.cartodb.com" target="_blank">CartoDB</a></td>
+								</tr>
+								<tr>											
+									<td style="text-align:right;"><i>Role:</i></td>
+									<td style="text-align:left;"><b>Developer</b></td>											
+								<tr>
+								<tr>
+									<td><i>Dates:</i></td>
+									<td>October 2014 - Nowadays</td>
+								</tr>
+							</table>
+						</div>
+						<div class="1u">&nbsp;</div>
+					</div>
+					<br >
+					<div class="row">
+						<div class="1u">&nbsp;</div>
+						<div class="10u box style2">
+							<table>
+								<br>
+								<tr>
+									<td colspan="2" class="img" style="text-align:center;"><a href="http://simfor.es/wp/" target="_blank"><img src="images/simfor_logo.png" alt="Simfor" /></a></td>
+								</tr>
+								<tr>
+									<td><i>Company:</i></td>
+									<td><a href="http://simfor.es/wp/" target="_blank">Simfor</a></td>
 								</tr>
 								<tr>											
 									<td style="text-align:right;"><i>Role:</i></td>
@@ -328,7 +353,7 @@
 								<tr>
 								<tr>
 									<td><i>Dates:</i></td>
-									<td>August 2012 - Actually</td>
+									<td>August 2012 - September 2014</td>
 								</tr>
 								<tr>
 									<td><i>Tasks:</i></td>
@@ -387,7 +412,7 @@
 								<tr>
 								<tr>
 									<td>Dates:</td>
-									<td>August 2012 - September 2011</td>
+									<td>August 2011 - September 2012</td>
 								</tr>
 								<tr>
 									<td>Tasks:</td>
@@ -498,7 +523,7 @@
 							<article class="box style2">
 								<h3><a href="#">Super Enjuto IA*</a></h3>
 								<br>
-								<a href="http://www.tafkinect.com/index.html" target="_blank" class="image featured"><img src="images/SuperEnjutoIA.jpg" alt="SuperEnjutoIA*" id="games-image"/></a>							
+								<img src="images/SuperEnjutoIA.jpg" alt="SuperEnjutoIA*" id="games-image"/>
 								<div align="center" class="video-container">	
 									<iframe width="560" height="315" src="http://www.youtube.com/embed/NIWn48tBW0k" frameborder="0" allowfullscreen></iframe>
 								</div>		
