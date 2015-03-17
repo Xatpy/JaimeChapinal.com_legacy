@@ -340,6 +340,18 @@
 									<td><i>Dates:</i></td>
 									<td>October 2014 - Nowadays</td>
 								</tr>
+								<tr>
+									<td><i>Tasks:</i></td>
+									<td>Front-end engineer and technical support.<td>	
+								</tr>
+								<tr><td>&nbsp;</td></tr>
+								<tr>
+									<td></td>		
+									<td>
+									<div class="video-container">
+										<iframe src="https://player.vimeo.com/video/100827168" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+									</div>
+								</tr>
 							</table>
 						</div>
 						<div class="1u">&nbsp;</div>
@@ -367,8 +379,16 @@
 								</tr>
 								<tr>
 									<td><i>Tasks:</i></td>
-									<td>We develop <i>formation simulators</i> about cranes, cars, trucks, buses (Emtac) and military vehicles.<td>	
+									<td>We developed <i>formation simulators</i> about cranes, cars, trucks, buses (Emtac) and military vehicles.<td>	
 								</tr>
+								<tr>
+									<td></td>		
+									<td>
+									<div class="video-container">
+										<iframe src="https://player.vimeo.com/video/121665363" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+									</div>
+								</tr>
+								<tr><td>&nbsp;</td></tr>
 								<tr>
 									<td></td>		
 									<td>
@@ -376,9 +396,10 @@
 										<iframe src="http://player.vimeo.com/video/87102155?byline=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 									</div>
 								</tr>
+								<tr><td>&nbsp;</td></tr>
 								<tr>
 									<td></td>
-									<td>I program in <b>C++</b> and I have used several technologies: OSG, DirectX, PhysX, Qt.</td>
+									<td>I programmed in <b>C++</b> and I used several technologies: OSG, DirectX, PhysX, Qt.</td>
 								</tr>	
 								<tr>
 									<td></td>
@@ -386,7 +407,7 @@
 								<tr>
 								<tr>
 									<td></td>
-									<td>Also, I have developed several internal <b>tools</b>: <br>
+									<td>Also, I developed several internal <b>tools</b>: <br>
 										&nbsp;&nbsp;&nbsp;<span class="icon fa-dot-circle-o "></span>  Users and courses management app - Qt <br>
 										&nbsp;&nbsp;&nbsp;<span class="icon fa-dot-circle-o "></span>  Exercises and menu creators <br>
 										&nbsp;&nbsp;&nbsp;<span class="icon fa-dot-circle-o "></span>  Databases design and implementation  <br>
