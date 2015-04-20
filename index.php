@@ -326,6 +326,37 @@
 							<table>
 								<br>
 								<tr>
+									<td colspan="2" class="img" style="text-align:center;"><a href="http://www.cartodb.com" target="_blank"><img src="http://www.adweek.com/socialtimes/wp-content/uploads/sites/2/2013/01/ea-logo-300x145-copy.jpg" alt="EA" /></a></td>
+								</tr>
+								<tr>
+									<td><i>Company:</i></td>
+									<td><a href="http://www.ea.com" target="_blank">Electronic Arts</a></td>
+								</tr>
+								<tr>											
+									<td style="text-align:right;"><i>Role:</i></td>						
+									<td>Software Engineer</td>
+								<tr>
+								<tr>
+									<td><i>Dates:</i></td>
+									<td>April 2015 - Nowadays</td>
+								</tr>
+								<tr>
+									<td><i>Tasks:</i></td>
+									<td>Internalization<td>	
+								</tr>
+								<tr>
+
+							</table>
+						</div>
+						<div class="1u">&nbsp;</div>
+					</div>
+					<br>
+					<div class="row">
+						<div class="1u">&nbsp;</div>
+						<div class="10u box style2">
+							<table>
+								<br>
+								<tr>
 									<td colspan="2" class="img" style="text-align:center;"><a href="http://www.cartodb.com" target="_blank"><img src="https://d21buns5ku92am.cloudfront.net/27712/images/90475-logos_full_cartodb_light-medium-1365655273.png" alt="CartoDB" /></a></td>
 								</tr>
 								<tr>
@@ -338,11 +369,19 @@
 								<tr>
 								<tr>
 									<td><i>Dates:</i></td>
-									<td>October 2014 - Nowadays</td>
+									<td>October 2014 - April 2015</td>
 								</tr>
 								<tr>
 									<td><i>Tasks:</i></td>
-									<td>Front-end engineer and technical support.<td>	
+									<td>Front-end engineer<td>	
+								</tr>
+								<tr>
+									<td/></td>
+									<td>QA</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>Technical Support</td>
 								</tr>
 								<tr><td>&nbsp;</td></tr>
 								<tr>
