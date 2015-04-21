@@ -334,7 +334,7 @@
 								</tr>
 								<tr>											
 									<td style="text-align:right;"><i>Role:</i></td>						
-									<td>Software Engineer</td>
+									<td>Associate Software Engineer</td>
 								<tr>
 								<tr>
 									<td><i>Dates:</i></td>
