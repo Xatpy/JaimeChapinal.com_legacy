@@ -89,10 +89,10 @@
 								 	<span class="icon fa-cog"></span><a href="http://masteres.ugr.es/master-desarrollo-software/?lang=en" target="blank">  Master in Software Development</a> at University of Granada (2011 - 2012).<br />
 								</p>
 								<p id="align-left">
-									<span class="icon fa-cog"></span><a href="http://www.uc3m.es/ss/Satellite/UC3MInstitucional/en/Detalle/Estudio_C/1371206697201/1371206607588/Bachelor_s_Degree_in_Computer_Science_and_Engineering" target="blank">  Computer Engineering Degree Software Development</a> at University Carlos III of Madrid (2010 -2 011).<br />
+									<span class="icon fa-cog"></span><a href="http://www.uc3m.es/ss/Satellite/UC3MInstitucional/en/Detalle/Estudio_C/1371206697201/1371206607588/Bachelor_s_Degree_in_Computer_Science_and_Engineering" target="blank">  Computer Engineering Degree Software Development</a> at University Carlos III of Madrid (2010 - 2011).<br />
 								</p>
 								<p id="align-left">
-									<span class="icon fa-cog"></span><a href="http://www.uc3m.es/Home" target="blank">  Technical Engineering in Computer Managements Software Development</a> at University Carlos III of Madrid (2004 - 2010).
+									<span class="icon fa-cog"></span><a href="http://www.uc3m.es/Home" target="blank">  Technical Engineering in Computer Managements Software Development</a> at University Carlos III of Madrid (2007 - 2010).
 								</p>
 							</section>
 						</div>
