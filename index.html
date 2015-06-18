@@ -620,49 +620,6 @@
 				</header>
 				<div>
 					<div class="row">
-						<div class="12u" id="textoContacto">
-							<form method="post" action="process.php" id="formulario">
-								<div>
-									<div class="row">
-										<div class="6u">
-											<input type="text" name="name" id="name" placeholder="Name *" required/>
-										</div>
-										<div class="6u">
-											<input type="email" name="email" id="email" placeholder="Email *" required/>
-										</div>
-									</div>
-									<div class="row">
-										<div class="12u">
-											<input type="text" name="subject" id="subject" placeholder="Subject *" required/>
-										</div>
-									</div>
-									<div class="row">
-										<div class="12u">
-											<textarea name="message" id="message" placeholder="Message *" required></textarea>
-										</div>
-									</div>	
-									<!--<div class="row">
-										<div class="2u">
-											<label>* What is 2+2? (Anti-spam)</label>
-										</div>
-										<div class="2u">
-											<input name="human"  type="text" placeholder="Anti-spam *" required></textarea>
-										</div>		
-										<div class="u6">&nbsp;</div>
-									</div>-->
-									<div class="row double">
-										<div class="12u">
-											<ul class="actions">
-												<li><input type="submit" value="Send Message" /></li>
-												<li><input type="reset" value="Clear Form" class="alt" /></li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</form>
-						</div>
-					</div>
-					<div class="row">
 						<div class="12u">
 							<hr />
 							<h3>Find me on ...</h3>
@@ -684,27 +641,6 @@
 				</footer>
 			</article>
 		</div>
-
-    <!--ENVIAR FORUMLARIO -->
-    <!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>-->
-    <script src="js/jquery.validate.js"></script>
-    <script src="js/jquery.form.js"></script>
-    <script>
-        $(function(){
-            $('#formulario').validate({
-                submitHandler: function(form) {
-                    $(form).ajaxSubmit({
-                        url: 'process.php',
-                        success: function() {                            
-                            $('#textoContacto h3').hide();
-                            $('#formulario').hide();
-                            $('#textoContacto').append("<p class='thanks'>Thanks!</p>")
-                        }
-                    });
-                }
-            });         
-        });
-    </script>
 
 
 	</body>
