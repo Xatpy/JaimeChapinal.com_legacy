@@ -6,6 +6,9 @@
 	Miniport by HTML5 UP
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+http://bootswatch.com/superhero/
+
 */
 
 /*********************************************************************************/
@@ -228,6 +231,7 @@
 		table
 		{
 			width: 100%;
+			margin: 50px;
 		}
 		
 			table.default
@@ -925,6 +929,11 @@
     height: 100%;
 }
 
+.video-table {
+	margin: 0 auto; 
+	width: 100%;
+}
+
 /* --------------------- 
 from: http://www.evilsocket.net/
 */
@@ -996,4 +1005,12 @@ from: http://www.evilsocket.net/
     border: 2px solid #24bfcf;
     border-radius: 50%;
     /*box-shadow: 0 0 1px 1px rgba(0, 0, 0, .3)*/
+}
+
+
+/*
+--------- JAIME ---------
+*/
+#customMargin {
+	margin: 10%;
 }
